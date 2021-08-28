@@ -1,0 +1,33 @@
+/* Navbar */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 12px 12px 0 0;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+li {
+    float: left;
+}
+
+.Navbar {
+    background-color: #c0abcc;
+    margin-bottom: 30px;
+}
+
+.Navbar .brand {
+    padding-bottom: 30px;
+    font-size: 35px;
+    font-weight: 800;
+    color: #3f0211;
+}
+
+li a {
+    display: block;
+    color: #971919;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+}
